@@ -1,0 +1,27 @@
+img[alt=lenet5] {
+    width: 600px;
+    display: block;
+    margin : 0 auto;
+}
+img[alt=lenet5-structure] {
+    width: 600px;
+    display: block;
+    margin : 0 auto;
+}
+img[alt=dataset-mnist] {
+    width: 600px;
+    display: block;
+    margin : 0 auto;
+}
+
+img[alt=cnn-exercise-1] {
+    width: 600px;
+    display: block;
+    margin : 0 auto;
+}
+
+img[alt=cnn-exercise-2] {
+    width: 600px;
+    display: block;
+    margin : 0 auto;
+}
